@@ -11,7 +11,7 @@
     "qs": "^6.9.1",
     "style-loader": "^1.1.2",
     "styled-components": "^5.1.0",
-    "three": "^0.116.1",
+    "three": "^0.125.0",
     "three-gltf-loader": "^1.111.0",
     "three-mtl-loader": "^1.0.2",
     "three-obj-loader": "^1.1.3",
